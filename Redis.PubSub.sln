@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Publisher", "Publisher\Publisher.csproj", "{1A937518-8770-4F51-BDD9-7D63AA460D5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subscriber", "Subscriber\Subscriber.csproj", "{53ABB1A4-BC97-407B-9874-A6AF92847270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{55A31E3E-01B9-4187-AF03-26FC5694E6F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A937518-8770-4F51-BDD9-7D63AA460D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A937518-8770-4F51-BDD9-7D63AA460D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A937518-8770-4F51-BDD9-7D63AA460D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A937518-8770-4F51-BDD9-7D63AA460D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53ABB1A4-BC97-407B-9874-A6AF92847270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ABB1A4-BC97-407B-9874-A6AF92847270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ABB1A4-BC97-407B-9874-A6AF92847270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ABB1A4-BC97-407B-9874-A6AF92847270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A31E3E-01B9-4187-AF03-26FC5694E6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A31E3E-01B9-4187-AF03-26FC5694E6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A31E3E-01B9-4187-AF03-26FC5694E6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A31E3E-01B9-4187-AF03-26FC5694E6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {806877EE-D713-40FB-A963-44DAC1212F05}
+	EndGlobalSection
+EndGlobal
